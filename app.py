@@ -27,4 +27,4 @@ def calculate():
     return render_template('result.html', num1=num1, num2=num2, operation=operation, result=result)
 
 if __name__ == '__main__':
-    app.run(debug=False)
+    app.run(debug=True)
