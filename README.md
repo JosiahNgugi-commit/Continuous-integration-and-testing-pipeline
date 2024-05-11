@@ -1,6 +1,4 @@
-### Continuous integration and testing pipeline 
-
-12345
+### Continuous integration and testing pipeline.
 
 ### Getting started
 
